@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /sample-page
+Sitemap: https://sealteck.co.uk/sitemap.xml

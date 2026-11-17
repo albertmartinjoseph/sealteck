@@ -1,0 +1,564 @@
+{
+  "sectors-we-serve": {
+    "title": "Sectors We Serve",
+    "blocks": [
+      {
+        "tag": "h2",
+        "text": "The Sectors We Serve"
+      },
+      {
+        "tag": "p",
+        "text": "At Sealteck Sealing Solutions Limited , we provide high-performance sealing solutions designed to ensure safety, reliability, and compliance across a wide range of demanding environments. From heavy industry to critical infrastructure, our tailored seals protect your assets, lower your total cost of ownership, and keep your operations running smoothly."
+      },
+      {
+        "tag": "h2",
+        "text": "Infrastructure"
+      },
+      {
+        "tag": "p",
+        "text": "Safe, reliable seals for a sustainable society."
+      },
+      {
+        "tag": "p",
+        "text": "We provide critical sealing solutions that protect vital public and private infrastructure from water, fire, gas, and environmental hazards."
+      },
+      {
+        "tag": "li",
+        "text": "Advanced Facilities & Data Centers: Protecting sensitive equipment and ensuring uninterrupted operations."
+      },
+      {
+        "tag": "li",
+        "text": "Transportation: Bridges, road tunnels, rail infrastructure, airports, and ports."
+      },
+      {
+        "tag": "li",
+        "text": "Construction & Buildings: Commercial buildings and civil construction projects."
+      },
+      {
+        "tag": "li",
+        "text": "Utilities & Telecom: Water management facilities and telecommunication networks."
+      },
+      {
+        "tag": "h2",
+        "text": "Manufacturing Industry"
+      },
+      {
+        "tag": "p",
+        "text": "Superior solutions as your manufacturing standard."
+      },
+      {
+        "tag": "p",
+        "text": "Our solutions enable high manufacturing quality for both Original Equipment Manufacturers (OEMs) and end-users, ensuring that complex machinery remains protected and operational."
+      },
+      {
+        "tag": "li",
+        "text": "Food & Beverage: Hygienic and compliant sealing for processing facilities."
+      },
+      {
+        "tag": "li",
+        "text": "Robotics & Automation: Protecting sensitive cabling and moving components."
+      },
+      {
+        "tag": "li",
+        "text": "Rolling Stock: Durable seals for trains and railway vehicles."
+      },
+      {
+        "tag": "li",
+        "text": "Defense Vehicles: Ruggedized protection for military and defense transport."
+      },
+      {
+        "tag": "h2",
+        "text": "Marine"
+      },
+      {
+        "tag": "p",
+        "text": "Extend the lifecycle of your vessels."
+      },
+      {
+        "tag": "p",
+        "text": "Whether it is a new-build project or a retrofit, our cable and pipe transits secure watertight, fire-rated integrity across all types of vessels at sea."
+      },
+      {
+        "tag": "li",
+        "text": "Commercial Shipping: Carriers, cargo ships, and offshore support vessels."
+      },
+      {
+        "tag": "li",
+        "text": "Passenger Vessels: Cruise liners, ferries, and luxury yachts."
+      },
+      {
+        "tag": "li",
+        "text": "Defense: Specialized sealing for naval vessels."
+      },
+      {
+        "tag": "h2",
+        "text": "Offshore Oil & Gas"
+      },
+      {
+        "tag": "p",
+        "text": "Uncompromising safety for extreme environments."
+      },
+      {
+        "tag": "p",
+        "text": "Our cable transits and pipe seals are the key to safety and reliability in one of the world’s most demanding sectors, extending the lifecycle of your offshore units."
+      },
+      {
+        "tag": "li",
+        "text": "Rigs & Platforms: Semi-submersible rigs and jack-up rigs."
+      },
+      {
+        "tag": "li",
+        "text": "Vessels: Drill ships, offshore support vessels, and FPSOs (Floating Production Storage and Offloading)."
+      },
+      {
+        "tag": "h2",
+        "text": "Power Generation & Distribution"
+      },
+      {
+        "tag": "p",
+        "text": "Entry solutions for a stable energy supply."
+      },
+      {
+        "tag": "p",
+        "text": "We secure energy operations with robust seals that handle the unique demands of both traditional power generation and the rapidly expanding renewable energy sector."
+      },
+      {
+        "tag": "li",
+        "text": "Renewable Energy: Onshore and offshore wind turbines, solar plants, and energy storage facilities."
+      },
+      {
+        "tag": "li",
+        "text": "Traditional Power: Gas turbine power plants and nuclear facilities."
+      },
+      {
+        "tag": "li",
+        "text": "Transmission & Distribution: AC/DC transmission networks, HVDC, and local power distribution."
+      },
+      {
+        "tag": "h2",
+        "text": "Process Industries"
+      },
+      {
+        "tag": "p",
+        "text": "Solutions for safe, continuous operations."
+      },
+      {
+        "tag": "p",
+        "text": "Process facilities require heavy-duty sealing to manage harsh chemicals, extreme temperatures, and hazardous environments. We provide the transits needed to keep these plants safe."
+      },
+      {
+        "tag": "li",
+        "text": "Mining & Metals: Heavy-duty protection for extraction and refinement facilities."
+      },
+      {
+        "tag": "li",
+        "text": "Onshore Oil, Gas & Petrochemical: Securing pipelines, refineries, and processing plants."
+      },
+      {
+        "tag": "li",
+        "text": "Pulp & Paper: Moisture and chemical-resistant sealing for continuous processing lines."
+      }
+    ]
+  },
+  "service": {
+    "title": "SERVICE",
+    "blocks": [
+      {
+        "tag": "h2",
+        "text": "SERVICE"
+      },
+      {
+        "tag": "p",
+        "text": "We provide installation services of mechanical seals for cable and pipe entries and specialize in providing solutions for"
+      },
+      {
+        "tag": "p",
+        "text": "protection of infrastructure & assets from Ingress of fire, water, air & dust."
+      },
+      {
+        "tag": "h2",
+        "text": "Site Survey & Documentation"
+      },
+      {
+        "tag": "p",
+        "text": "Before installation begins, our Engineers conduct a rigorous site survey to capture critical system data. We document and provide you with:"
+      },
+      {
+        "tag": "li",
+        "text": "Precise inner diameter measurements of the wall sleeve."
+      },
+      {
+        "tag": "li",
+        "text": "Exact outer diameter measurements of all cables or pipes."
+      },
+      {
+        "tag": "li",
+        "text": "Total cable count and structural configuration data."
+      },
+      {
+        "tag": "h2",
+        "text": "Precision  Installation"
+      },
+      {
+        "tag": "p",
+        "text": "We eliminate the risk of premature failure by adhering strictly to manufacturer specifications."
+      },
+      {
+        "tag": "li",
+        "text": "Utilization of calibrated torque tools for exact compression."
+      },
+      {
+        "tag": "li",
+        "text": "Flawless alignment tailored to the specific mechanical seal model."
+      },
+      {
+        "tag": "li",
+        "text": "Strict compliance with manufacturer-approved installation methodologies."
+      },
+      {
+        "tag": "h2",
+        "text": "Integrity & Tightness Testing"
+      },
+      {
+        "tag": "li",
+        "text": "Post-installation, we subject every seal to rigorous quality control checks."
+      },
+      {
+        "tag": "li",
+        "text": "Mandatory pressure and tightness testing to verify a gas-tight and water-tight seal."
+      },
+      {
+        "tag": "li",
+        "text": "Immediate identification and resolution of any sealing micro-gaps."
+      },
+      {
+        "tag": "h2",
+        "text": "Warranty Certification"
+      },
+      {
+        "tag": "p",
+        "text": "Upon successful testing, we issue official documentation certifying our workmanship warranty, giving you long-term operational peace of mind."
+      }
+    ]
+  },
+  "contact-us": {
+    "title": "Contact Us",
+    "blocks": [
+      {
+        "tag": "h2",
+        "text": "Contact Us"
+      },
+      {
+        "tag": "p",
+        "text": "Discuss on Phone"
+      },
+      {
+        "tag": "p",
+        "text": "Send an Email"
+      },
+      {
+        "tag": "p",
+        "text": "info@sealteck.co.uk"
+      },
+      {
+        "tag": "p",
+        "text": "Office Location"
+      },
+      {
+        "tag": "p",
+        "text": "Office 1111\n60 Tottenham Court Road,\nFitzrovia\nLondon\nW1T 2EW"
+      },
+      {
+        "tag": "h3",
+        "text": "DROP US YOUR MESSAGE!"
+      },
+      {
+        "tag": "p",
+        "text": "First Name"
+      },
+      {
+        "tag": "p",
+        "text": "Last Name"
+      },
+      {
+        "tag": "p",
+        "text": "Email Address"
+      },
+      {
+        "tag": "p",
+        "text": "Message"
+      },
+      {
+        "tag": "p",
+        "text": "Send Message"
+      }
+    ]
+  },
+  "about-us": {
+    "title": "About Us",
+    "blocks": [
+      {
+        "tag": "h2",
+        "text": "About Us"
+      },
+      {
+        "tag": "p",
+        "text": "At Sealteck, we didn’t just see a gap in building entries; we saw a critical flaw in industry standards. Having spent years witnessing the costly consequences of inferior sealing products and substandard workmanship across various sectors, we decided it was time to redefine how critical infrastructure is protected."
+      },
+      {
+        "tag": "p",
+        "text": "Led by a dedicated management team with a robust background in Electronics and Mechanical Engineering, Sealteck was established to be more than just a service provider—we are a specialized sealing installation partner for principal contractors. We understand that in environments like high-voltage substations, power plants, commercial constructions, and the Oil & Gas sector, a compromised seal doesn’t just mean a leak; it means catastrophic system failure."
+      },
+      {
+        "tag": "p",
+        "text": "Our mission is simple: to bring world-class sealing technologies to every project and execute them with flawless engineering precision. By combining vast industry knowledge with an unwavering commitment to quality, we protect your infrastructure and Assets, support your project timelines, and deliver superior value to contractors and connected communities alike."
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Sealteck?"
+      },
+      {
+        "tag": "p",
+        "text": "Contractors choose us because we eliminate the risk of callbacks, compliance failures, and infrastructure and asset damage. Here is why Sealteck is the most trusted name in mechanical duct, cable, and pipe sealing:"
+      },
+      {
+        "tag": "h3",
+        "text": "Uncompromising Product Quality"
+      },
+      {
+        "tag": "p",
+        "text": "We refuse to use subpar materials. We install the highest-grade mechanical seals and world-class technologies available on the global market. If it doesn't meet our rigorous engineering standards, we don't install it."
+      },
+      {
+        "tag": "h3",
+        "text": "Elite Workmanship"
+      },
+      {
+        "tag": "p",
+        "text": "A premium seal is useless if installed incorrectly. Our installation engineers are heavily invested in and trained to the absolute highest industry standards. We treat every single cable transit and pipe entry as a mission-critical asset."
+      },
+      {
+        "tag": "h3",
+        "text": "Bulletproof Documentation & Reporting"
+      },
+      {
+        "tag": "p",
+        "text": "Handover should be the easiest part of your project. We provide the most accurate, transparent, and highly detailed reporting and documentation in the industry, ensuring seamless compliance and sign-off for your clients."
+      },
+      {
+        "tag": "h3",
+        "text": "An Unrivalled Warranty"
+      },
+      {
+        "tag": "p",
+        "text": "Because we pair the best materials with elite engineering execution, we back our work with the strongest Workmanship warranty in the market. When Sealteck seals a building entry, it stays sealed."
+      },
+      {
+        "tag": "h2",
+        "text": "Need Reliable Sealing Solutions?"
+      },
+      {
+        "tag": "p",
+        "text": "Partner with Sealteck for professional mechanical seal installation and infrastructure protection services tailored to your project requirements."
+      },
+      {
+        "tag": "p",
+        "text": "Contact us today"
+      }
+    ]
+  },
+  "home": {
+    "title": "Home",
+    "blocks": [
+      {
+        "tag": "h3",
+        "text": "Sealteck"
+      },
+      {
+        "tag": "h2",
+        "text": "Protecting Critical Infrastructure with Advanced Sealing Solutions"
+      },
+      {
+        "tag": "p",
+        "text": "Professional installation services for mechanical seals designed to protect cable and pipe entries from fire, water, air, and dust ingress."
+      },
+      {
+        "tag": "p",
+        "text": "our services"
+      },
+      {
+        "tag": "p",
+        "text": "contact us"
+      },
+      {
+        "tag": "h2",
+        "text": "About Us"
+      },
+      {
+        "tag": "p",
+        "text": "At Sealteck, we didn't just see a gap in building entries; we saw a critical flaw in industry standards. Having spent years witnessing the costly consequences of inferior sealing products and substandard workmanship across various sectors, we decided it was time to redefine how critical infrastructure is protected."
+      },
+      {
+        "tag": "p",
+        "text": "READ MORE"
+      },
+      {
+        "tag": "h2",
+        "text": "Need Reliable Sealing Solutions?"
+      },
+      {
+        "tag": "p",
+        "text": "Partner with Sealteck for professional mechanical seal installation and infrastructure protection services tailored to your project requirements."
+      },
+      {
+        "tag": "p",
+        "text": "Contact us today"
+      },
+      {
+        "tag": "h2",
+        "text": "Quality Services"
+      },
+      {
+        "tag": "h3",
+        "text": "Industry Expertise"
+      },
+      {
+        "tag": "p",
+        "text": "Skilled professionals with extensive experience in mechanical seal installation for cable and pipe entry systems across multiple industries."
+      },
+      {
+        "tag": "h3",
+        "text": "Complete Infrastructure Protection"
+      },
+      {
+        "tag": "p",
+        "text": "We provide reliable solutions to protect critical infrastructure and assets from fire, water, air, and dust ingress."
+      },
+      {
+        "tag": "h3",
+        "text": "High-Quality Installation Standards"
+      },
+      {
+        "tag": "p",
+        "text": "Every project is executed with precision, ensuring durable performance, safety compliance, and long-term reliability."
+      },
+      {
+        "tag": "h3",
+        "text": "Tailored Sealing Solutions"
+      },
+      {
+        "tag": "p",
+        "text": "Customized sealing systems designed to meet the unique operational and environmental requirements of each project."
+      },
+      {
+        "tag": "h3",
+        "text": "Reliable & Efficient Service"
+      },
+      {
+        "tag": "p",
+        "text": "We focus on timely project execution, professional workmanship, and dependable support from start to finish."
+      },
+      {
+        "tag": "h3",
+        "text": "Trusted Across Industries"
+      },
+      {
+        "tag": "p",
+        "text": "Serving industrial, marine, energy, telecommunications, and commercial sectors with proven sealing expertise and trusted solutions."
+      },
+      {
+        "tag": "h2",
+        "text": "Latest Projects"
+      },
+      {
+        "tag": "h2",
+        "text": "What are you looking for?"
+      },
+      {
+        "tag": "h3",
+        "text": "What services does Sealteck provide?"
+      },
+      {
+        "tag": "p",
+        "text": "Normal Icon"
+      },
+      {
+        "tag": "p",
+        "text": "Active Icon"
+      },
+      {
+        "tag": "p",
+        "text": "Sealteck specializes in the installation of mechanical seals for cable and pipe entries, offering advanced protection solutions against fire, water, air, and dust ingress for critical infrastructure and assets."
+      },
+      {
+        "tag": "p",
+        "text": ".elementskit-card END"
+      },
+      {
+        "tag": "h3",
+        "text": "Which industries do you serve?"
+      },
+      {
+        "tag": "p",
+        "text": "Normal Icon"
+      },
+      {
+        "tag": "p",
+        "text": "Active Icon"
+      },
+      {
+        "tag": "p",
+        "text": "We provide sealing solutions for a wide range of industries including oil & gas, marine, power & utilities, telecommunications, industrial manufacturing, data centers, and commercial infrastructure."
+      },
+      {
+        "tag": "p",
+        "text": ".elementskit-card END"
+      },
+      {
+        "tag": "h3",
+        "text": "Why are mechanical sealing solutions important?"
+      },
+      {
+        "tag": "p",
+        "text": "Normal Icon"
+      },
+      {
+        "tag": "p",
+        "text": "Active Icon"
+      },
+      {
+        "tag": "p",
+        "text": "Mechanical cable and pipe sealing is essential for safeguarding critical infrastructure, providing reliable protection against water, gas, and fire hazards while enhancing structural durability and absorbing mechanical strain"
+      },
+      {
+        "tag": "p",
+        "text": ".elementskit-card END"
+      }
+    ]
+  },
+  "sample-page": {
+    "title": "Sample Page",
+    "blocks": [
+      {
+        "tag": "p",
+        "text": "This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:"
+      },
+      {
+        "tag": "p",
+        "text": "Hi there! I’m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin’ caught in the rain.)"
+      },
+      {
+        "tag": "p",
+        "text": "…or something like this:"
+      },
+      {
+        "tag": "p",
+        "text": "The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community."
+      },
+      {
+        "tag": "p",
+        "text": "As a new WordPress user, you should go to your dashboard to delete this page and create new pages for your content. Have fun!"
+      }
+    ]
+  }
+}
