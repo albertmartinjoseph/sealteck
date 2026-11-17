@@ -13,3 +13,5 @@
 - These checks are not a full accessibility audit. Screen-reader behavior, actual message delivery and live-domain redirects remain unverified.
 
 Reproduce: npm run build; npm run dev; node scripts/check-browser.mjs (uses installed Chrome on Windows).
+
+Contact update: the form now has Full Name, Email Address, Phone Number, Company Name, Subject and Message. Required fields and optional phone format validate on blur with associated accessible error messages. Submit stays disabled per owner instruction. No backend or third-party email integration is active. Validation and a future adapter contract are isolated in src/contact.js.
